@@ -1,3 +1,3 @@
 # hello-world
-just another ripozirity
+just another riposirity
 ken
